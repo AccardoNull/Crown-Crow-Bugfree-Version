@@ -6,3 +6,5 @@ Source code: https://github.com/emmadilemma320/ludum_dare_
 LDjam.com: https://ldjam.com/events/ludum-dare/58/crown-crow
 
 Itch.io: https://thdudk.itch.io/crown-crow
+
+This version: https://accardonull.github.io/Crown-Crow-Bugfree-Version/ 
