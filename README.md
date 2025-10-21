@@ -1,5 +1,9 @@
 # Crown-Crow-Bugfree-Version
-A version of Ludum Dare 58 Game Jam entry Crown Crow with bug fixes and some additions. Hosted on Github Pages: https://accardonull.github.io/Crown-Crow-Bugfree-Version/ 
+A version of the game Crown Crow, which I worked on with the team during Ludum Dare 58 Game Jam, with bug fixes and some additions. Hosted on Github Pages: https://accardonull.github.io/Crown-Crow-Bugfree-Version/ 
+
+Movements: arrow keys / [WSAD], Flap: ↑ / [W], Dive: ↓ / [S], Pickup item: [C] / [E]
+
+Cheat Hint: Shop and [S] [H] [I] [N] [Y]
 
 Ludum Dare version:
 
